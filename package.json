@@ -1,5 +1,6 @@
 {
   "name": "barter-cli",
+  "version": "0.1.0",
   "main": "lib/barter-cli.js",
   "dependencies": {
     "colors": "1.1.2",
